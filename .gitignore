@@ -1,0 +1,6 @@
+*~
+./avroom-temp-monitor-key.json
+./config.ini
+venv/*
+.current_overtemp_email_sent
+
